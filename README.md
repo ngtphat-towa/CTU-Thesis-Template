@@ -172,6 +172,15 @@ my-thesis/
 
 ---
 
+## 📚 References & Guidelines
+
+This template adheres to the official formatting regulations of Can Tho University (CTU) and the College of ICT.
+
+*   **Official Guidelines**: See [docs/CTU_THESIS_GUIDELINES.md](docs/CTU_THESIS_GUIDELINES.md) for a detailed breakdown of formatting rules (margins, fonts, citations).
+*   **Compliance**: Based on *Decision No. 4125/QĐ-ĐHCT (2024)*.
+
+---
+
 ## 🤝 Community & Contributing
 
 We welcome contributions from the community! Whether it's reporting a bug, suggesting a feature, or submitting a pull request, your input is valued.

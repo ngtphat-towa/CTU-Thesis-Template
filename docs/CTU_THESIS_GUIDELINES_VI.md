@@ -737,7 +737,7 @@ Trường Đại học Cần Thơ
 
 ```
 Giấy: A4
-Lề: Trái:4cm, Phải:2.5cm, Trên:2.5cm, Dưới:2.5cm
+Lề: Trái:3cm, Phải:2cm, Trên:2cm, Dưới:2cm
 Phông chữ: Times New Roman, 13pt
 Giãn dòng: 1.2
 Thụt đầu dòng: 1cm
@@ -770,3 +770,27 @@ Bảng:         Bảng 1.1, Bảng 2.1...
 **Biên soạn bởi**: Phat Nguyen Th.
 
 **Lưu ý**: Các hướng dẫn này dựa trên các yêu cầu chính thức của ĐHCT cho năm học 2025-2026. Luôn kiểm tra lại với bộ môn/khoa của bạn để có các yêu cầu cập nhật nhất.
+
+---
+
+## 14. Nguồn Tham Khảo Chính Thức
+
+Các hướng dẫn này được xây dựng dựa trên các văn bản và tài liệu chính thức từ Trường Đại học Cần Thơ (ĐHCT):
+
+1.  **Quy chế Chung (2024)**:
+    *   *Văn bản*: Quy định về hình thức trình bày báo cáo khoa học (Kèm theo Quyết định số 4125/QĐ-ĐHCT ngày 06/08/2024).
+    *   *Phạm vi*: Quy định chung toàn trường cho luận văn và luận án.
+
+2.  **Hướng dẫn của Trường CNTT&TT (CICT)**:
+    *   *Nguồn*: [Website Trường CNTT&TT - Luận văn tốt nghiệp](https://cict.ctu.edu.vn/)
+    *   *Chi tiết*: Các yêu cầu đặc thù về cấu trúc, mã nguồn và tiêu chí đánh giá.
+
+3.  **Tài nguyên Thư viện**:
+    *   *Nguồn*: [Trung tâm Học liệu ĐHCT (LRC)](http://lrc.ctu.edu.vn/)
+    *   *Sử dụng*: Tham khảo mẫu bìa, quy cách đóng quyển và lưu chiểu.
+
+4.  **Chuẩn Trích dẫn**:
+    *   *Chuẩn*: IEEE Editorial Style.
+    *   *Tài liệu*: [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/).
+
+**Lưu ý**: Trong trường hợp có sự khác biệt, "Quyết định số 4125/QĐ-ĐHCT" có giá trị cao nhất về mặt định dạng (lề, phông chữ), trong khi hướng dẫn của Khoa/Bộ môn có giá trị cao nhất về mặt cấu trúc nội dung.

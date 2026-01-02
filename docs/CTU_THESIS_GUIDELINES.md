@@ -33,8 +33,8 @@
 |---------|--------------|
 | **Paper Size** | A4 (210mm × 297mm) |
 | **Orientation** | Portrait |
-| **Margins** | Left: 4.0 cm<br>Right: 2.5 cm<br>Top: 2.5 cm<br>Bottom: 2.5 cm |
-| **Binding Edge** | Left side (4cm margin for binding) |
+| **Margins** | Left: 3.0 cm<br>Right: 2.0 cm<br>Top: 2.0 cm<br>Bottom: 2.0 cm |
+| **Binding Edge** | Left side (3cm margin for binding) |
 
 ### 1.3 Typography
 
@@ -628,7 +628,7 @@ Can Tho University
 ✅ **Correct**: Times New Roman 13pt
 
 ❌ **Wrong**: Left margin 3cm  
-✅ **Correct**: Left margin 4cm (for binding)
+✅ **Correct**: Left margin 3cm (for binding)
 
 ❌ **Wrong**: Double spacing (2.0)  
 ✅ **Correct**: 1.2 line spacing for main text
@@ -738,7 +738,7 @@ Can Tho University
 
 ```
 Paper: A4
-Margins: L:4cm, R:2.5cm, T:2.5cm, B:2.5cm
+Margins: L:3cm, R:2cm, T:2cm, B:2cm
 Font: Times New Roman, 13pt
 Line Spacing: 1.2
 Paragraph Indent: 1cm
@@ -771,3 +771,27 @@ Tables:       Table 1.1, Table 2.1...
 **Prepared by**: Phat Nguyen Th.
 
 **Note**: These guidelines are based on CTU's official requirements for the 2025-2026 academic year. Always verify with your department for the most current requirements.
+
+---
+
+## 14. Official References
+
+These guidelines are based on the following official documents and resources from Can Tho University (CTU):
+
+1.  **General Regulations (2024)**:
+    *   *Document*: Quy định về hình thức trình bày báo cáo khoa học (Kèm theo Quyết định số 4125/QĐ-ĐHCT ngày 06/08/2024).
+    *   *Scope*: University-wide standard for theses and dissertations.
+
+2.  **College of ICT Guidelines**:
+    *   *Source*: [College of ICT Website - Graduation Thesis](https://cict.ctu.edu.vn/)
+    *   *Details*: Specific requirements for structure, source code submission, and evaluation criteria.
+
+3.  **Library Resources**:
+    *   *Source*: [CTU Learning Resource Center (LRC)](http://lrc.ctu.edu.vn/)
+    *   *Usage*: Reference for binding styles, cover page colors, and archival formats.
+
+4.  **Citation Standards**:
+    *   *Standard*: IEEE Editorial Style.
+    *   *Manual*: [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/).
+
+**Note**: In case of discrepancies, the "Quyết định số 4125/QĐ-ĐHCT" takes precedence for formatting issues (margins, fonts), while Department guidelines take precedence for content structure.
