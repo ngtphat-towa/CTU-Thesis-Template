@@ -794,4 +794,8 @@ These guidelines are based on the following official documents and resources fro
     *   *Standard*: IEEE Editorial Style.
     *   *Manual*: [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/).
 
-**Note**: In case of discrepancies, the "Quyết định số 4125/QĐ-ĐHCT" takes precedence for formatting issues (margins, fonts), while Department guidelines take precedence for content structure.
+**⚠️ Disclaimer & Community Contributions**:
+
+While this document strives for accuracy based on Decision 4125/QĐ-ĐHCT, errors may occur.
+1.  **Always verify** the latest requirements with your **Advisor** and **Department**, as specific rules may change.
+2.  If you find any discrepancies or errors, please **[open an issue](../../.github/ISSUE_TEMPLATE/bug_report.md)** or submit a **Pull Request**. Your contributions help the entire CTU student community!
