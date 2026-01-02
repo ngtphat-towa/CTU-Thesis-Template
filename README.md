@@ -172,9 +172,18 @@ my-thesis/
 
 ---
 
+## 🤝 Community & Contributing
+
+We welcome contributions from the community! Whether it's reporting a bug, suggesting a feature, or submitting a pull request, your input is valued.
+
+*   **Contributing Guide**: Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+*   **Code of Conduct**: We pledge to foster an open and welcoming environment. Please review [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+*   **Bug Reports**: Use the [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md).
+*   **Feature Requests**: Use the [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md).
+
+## 📜 Citation
+
+If you use this template for your academic work, please cite it using the metadata in [CITATION.cff](CITATION.cff).
+
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-Đóng góp được hoan nghênh! Hãy gửi Pull Request nếu bạn muốn cải thiện dự án.

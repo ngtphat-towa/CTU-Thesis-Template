@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "CTU Thesis Template (Typst)"
+message: "If you use this template for your thesis, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Nguyen"
+    given-names: "Phat"
+repository-code: "https://github.com/ngtphat-towa/CTU-Thesis-Template"
+url: "https://github.com/ngtphat-towa/CTU-Thesis-Template"
+abstract: "A modern, high-performance thesis template for Can Tho University (CTU) students, built using Typst."
+keywords:
+  - typst
+  - thesis
+  - ctu
+  - template
+  - academic-writing
+license: MIT
+version: 1.0.0
+date-released: 2026-01-02
