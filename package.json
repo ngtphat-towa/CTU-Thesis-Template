@@ -1,0 +1,27 @@
+{
+  "name": "ctu-thesis-template",
+  "version": "1.0.0",
+  "description": "Modern Typst thesis template for Can Tho University (CTU). Follows 2025-2026 guidelines.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngtphat-towa/CTU-Thesis-Template.git"
+  },
+  "keywords": [
+    "typst",
+    "thesis-template",
+    "ctu",
+    "can-tho-university",
+    "dai-hoc-can-tho",
+    "luan-van",
+    "graduate-thesis",
+    "academic-writing",
+    "vietnam",
+    "latex-alternative"
+  ],
+  "author": "Phat Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngtphat-towa/CTU-Thesis-Template/issues"
+  },
+  "homepage": "https://github.com/ngtphat-towa/CTU-Thesis-Template#readme"
+}

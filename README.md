@@ -187,3 +187,9 @@ If you use this template for your academic work, please cite it using the metada
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<!-- 
+Keywords: Typst, CTU, Can Tho University, Thesis Template, Đại học Cần Thơ, Luận văn tốt nghiệp, 
+Mẫu luận văn Typst, Academic Writing, Research Paper, CTU ICT, College of ICT, 
+Vietnam University, LaTeX alternative, PDF generation, Graduation Report.
+-->

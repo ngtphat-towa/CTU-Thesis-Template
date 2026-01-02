@@ -1,0 +1,21 @@
+[package]
+name = "ctu-thesis-template"
+version = "1.0.0"
+entrypoint = "starter-template/main.typ"
+authors = ["Phat Nguyen"]
+license = "MIT"
+description = "A modern, high-performance thesis template for Can Tho University (CTU) students."
+repository = "https://github.com/ngtphat-towa/CTU-Thesis-Template"
+homepage = "https://github.com/ngtphat-towa/CTU-Thesis-Template"
+keywords = [
+  "thesis",
+  "ctu",
+  "academic-writing",
+  "typst-template",
+  "vietnam",
+  "can-tho-university",
+  "research",
+  "report"
+]
+compiler = "0.12.0"
+exclude = ["docs", "Generate-CtUThesis.ps1", "generate-ctu-thesis.sh", ".github"]
