@@ -768,6 +768,6 @@ Tables:       Table 1.1, Table 2.1...
 
 **Document Version**: 1.0  
 **Last Updated**: January 2026  
-**Prepared by**: CTU Thesis Generator Team
+**Prepared by**: Phat Nguyen Th.
 
 **Note**: These guidelines are based on CTU's official requirements for the 2025-2026 academic year. Always verify with your department for the most current requirements.
