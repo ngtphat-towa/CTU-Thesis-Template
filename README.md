@@ -8,6 +8,13 @@
 
 ---
 
+> **⚠️ Disclaimer / Miễn trừ trách nhiệm**: 
+> This template is based on CTU's 2024-2025 guidelines. However, requirements may vary by department. **Always verify the final format with your advisor.** Contributions and bug reports are welcome!
+>
+> Mẫu này dựa trên quy định ĐHCT 2024-2025. Tuy nhiên, quy định có thể thay đổi tùy bộ môn. **Luôn đối chiếu với GVHD về định dạng cuối cùng.** Mọi đóng góp và báo lỗi đều được hoan nghênh!
+
+---
+
 <a name="english"></a>
 ## 🇬🇧 English
 

@@ -5,6 +5,14 @@
 
 ---
 
+> **⚠️ Miễn trừ trách nhiệm & Đóng góp từ Cộng đồng**:
+>
+> Mặc dù tài liệu này được biên soạn dựa trên Quyết định 4125/QĐ-ĐHCT, sai sót là điều khó tránh khỏi.
+> 1.  **Luôn đối chiếu** các quy định với **Giảng viên hướng dẫn** và **Văn phòng Khoa** để đảm bảo tính cập nhật và chính xác tuyệt đối.
+> 2.  Nếu bạn phát hiện lỗi hoặc có thông tin mới, vui lòng **[báo lỗi (Issue)](../../.github/ISSUE_TEMPLATE/bug_report.md)** hoặc gửi **Pull Request**. Sự đóng góp của bạn sẽ giúp ích rất nhiều cho các bạn sinh viên khóa sau!
+
+---
+
 ## 📋 Mục lục
 
 1. [Yêu cầu Chung](#yêu-cầu-chung)
@@ -792,9 +800,3 @@ Các hướng dẫn này được xây dựng dựa trên các văn bản và t�
 4.  **Chuẩn Trích dẫn**:
     *   *Chuẩn*: IEEE Editorial Style.
     *   *Tài liệu*: [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/).
-
-**⚠️ Miễn trừ trách nhiệm & Đóng góp từ Cộng đồng**:
-
-Mặc dù tài liệu này được biên soạn dựa trên Quyết định 4125/QĐ-ĐHCT, sai sót là điều khó tránh khỏi.
-1.  **Luôn đối chiếu** các quy định với **Giảng viên hướng dẫn** và **Văn phòng Khoa** để đảm bảo tính cập nhật và chính xác tuyệt đối.
-2.  Nếu bạn phát hiện lỗi hoặc có thông tin mới, vui lòng **[báo lỗi (Issue)](../../.github/ISSUE_TEMPLATE/bug_report.md)** hoặc gửi **Pull Request**. Sự đóng góp của bạn sẽ giúp ích rất nhiều cho các bạn sinh viên khóa sau!
